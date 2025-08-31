@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'a continuacion, digite el radio de un circulo:'
+5
+1
+5
+radio
+6
+1
+4
+area
+14
+3.14*(radio)^2
+4
+1
+38
+"el area del circulo es igual a ",area
+1

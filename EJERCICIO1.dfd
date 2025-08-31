@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+86
+' Digite el valor del cateto opuesto y del cateto adyacente para hallar la hipotenusa'
+5
+1
+3
+a,b
+6
+1
+8
+solucion
+15
+(a^2+b^2)^(1/2)
+4
+1
+64
+' La altura (hipotenusa) del triangulo rectangulo es: ',solucion
+1

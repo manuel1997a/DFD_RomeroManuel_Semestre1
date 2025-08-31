@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+' Ahora vamos a hallar las soluciones de una formula cuadratica'
+4
+1
+28
+'digite el valor de a,b,c: '
+5
+1
+5
+a,b,c
+6
+3
+10
+operacion1
+17
+((b^2)-4*a*c)^1/2
+10
+operacion2
+15
+(-b)+operacion1
+10
+operacion3
+14
+operacion2/2*a
+6
+3
+10
+operacion4
+17
+((b^2)-4*a*c)^1/2
+10
+operacion5
+15
+(-b)-operacion4
+10
+operacion6
+14
+operacion5/2*a
+4
+1
+126
+' la primera solucion es igual a:                              ',operacion3, 'la segunda solucion es igual a:     ',operacion6
+1

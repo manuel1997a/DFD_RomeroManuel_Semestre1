@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'A continuacion vamos a calcular el promedio de 3 numeros'
+4
+1
+22
+'digite los numeros: '
+5
+1
+5
+a,b,c
+6
+2
+4
+suma
+5
+a+b+c
+8
+promedio
+6
+suma/3
+4
+1
+45
+' el promedio de los 3 numeros es: ',promedio
+1
